@@ -1,0 +1,11 @@
+{
+	"name": "sgcexample",
+	"description": "sgcexample",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "3.x",
+		"solc": "^0.4.24",
+		"web3": "^1.0.0-beta.34"
+	}
+}
